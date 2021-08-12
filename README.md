@@ -1,1 +1,3 @@
-# c_cpp
+# C&C++ syntax, features
+
+c_pointer <br>
